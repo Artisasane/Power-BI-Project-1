@@ -128,6 +128,6 @@ Kitchen Sales Dashboard
 
 ---
 
-**Title:** Thank You!  
+**Thank You!** 
 
 ---
